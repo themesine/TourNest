@@ -20,7 +20,7 @@ Author
 
 Other templates
 ---------------
-<a href="https://www.themesine.com/downloads/dashloon-bootstrap-admin-dashboard/" target="_blank">DashLoon admin template</a>
+<a href="https://www.themesine.com/downloads/dashloon-bootstrap-admin-dashboard/" rel="nofollow" target="_blank">DashLoon admin template</a>
 
 License
 --------
