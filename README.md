@@ -8,7 +8,7 @@ We would love to see how you use this amazing html5 template. You can notify us 
 
 Preview
 --------
-![free travel agency responsive html template](https://www.themesine.com/wp-content/uploads/edd/2018/02/travel-agency.jpg)
+![free travel agency responsive html template](https://cdn.dribbble.com/users/1914192/screenshots/4242909/tournest-travel-agency-responsive-html5-website-template-free-download-.jpg)
 
 Demo site
 ---------
